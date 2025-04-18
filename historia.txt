@@ -1,0 +1,11 @@
+# Historia del Proyecto
+
+## Inicio - [2025-04-15]
+Creé el proyecto
+
+## Cambio I - [2025-04-16]
+Añadí el archivo html y creé una carpeta para los estilos con su respectivo archivo css
+
+## Cambio II - [2025-04-17]
+Configuré cada archivo creado
+
